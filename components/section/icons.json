@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_section_icons",
+  "info": {
+    "name": "Icons",
+    "icon": "at",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "svg": {
+      "type": "text"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

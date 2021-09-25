@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_section_footers",
+  "info": {
+    "name": "section_footer",
+    "icon": "arrow-down",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "footer_text": {
+      "type": "richtext",
+      "required": false
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.section-metadata"
+    },
+    "icons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "section.icons"
+    }
+  }
+}

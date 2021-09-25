@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_section_experiences",
+  "info": {
+    "name": "experience",
+    "icon": "align-right"
+  },
+  "options": {},
+  "attributes": {
+    "company": {
+      "type": "string"
+    },
+    "svg": {
+      "type": "text"
+    },
+    "role": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "technologies": {
+      "type": "richtext"
+    }
+  }
+}

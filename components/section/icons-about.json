@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_section_icons_abouts",
+  "info": {
+    "name": "icons_about",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "svg": {
+      "type": "text"
+    }
+  }
+}

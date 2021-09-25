@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_section_section_experiences",
+  "info": {
+    "name": "section_experience",
+    "icon": "atom",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "metadata": {
+      "type": "component",
+      "repeatable": false,
+      "component": "section.section-metadata"
+    },
+    "experience": {
+      "type": "component",
+      "repeatable": true,
+      "component": "section.experience"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}
